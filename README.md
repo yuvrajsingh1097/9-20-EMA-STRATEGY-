@@ -13,3 +13,8 @@ Step C: Stop Loss and Take Profit
 Stop Loss: Usually placed just below the EMA 20 (for longs) or above the EMA 20 (for shorts). Alternatively, use the recent "swing high" or "swing low."
 
 Exit: Many traders exit when the EMA 9 crosses back over the EMA 20 in the opposite direction, or when price action shows a clear reversal pattern.
+
+
+
+Bullish Signal (Buy): When the 9 EMA crosses above the 20 EMA, indicating increasing bullish momentum.
+Bearish Signal (Sell): When the 9 EMA crosses below the 20 EMA, indicating increasing bearish momentum.
