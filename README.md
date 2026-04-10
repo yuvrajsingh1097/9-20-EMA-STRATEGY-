@@ -18,3 +18,13 @@ Exit: Many traders exit when the EMA 9 crosses back over the EMA 20 in the oppos
 
 Bullish Signal (Buy): When the 9 EMA crosses above the 20 EMA, indicating increasing bullish momentum.
 Bearish Signal (Sell): When the 9 EMA crosses below the 20 EMA, indicating increasing bearish momentum.
+
+
+
+Trading involves significant risk. This website and the 9:20 EMA tool are for educational purposes only.
+
+Always practice in a Paper Trading environment before using real capital.
+
+Opening volatility can lead to "Stop Loss Hunting"; ensure your position sizing is managed.
+
+Past performance of the 5-EMA strategy does not guarantee future results.
