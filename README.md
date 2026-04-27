@@ -28,3 +28,7 @@ Always practice in a Paper Trading environment before using real capital.
 Opening volatility can lead to "Stop Loss Hunting"; ensure your position sizing is managed.
 
 Past performance of the 5-EMA strategy does not guarantee future results.
+
+
+
+MAINLY BUILT FOR TRADING IN NEW YORK  ZONE WITH MARKING ASIAN / LONDON HIGHS AND LOWS
